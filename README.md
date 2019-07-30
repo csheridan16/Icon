@@ -1,2 +1,6 @@
 # Icon
-A set of Icons based apon masks and helms fromt the past
+A set of Icons based apon masks and helms from throughout History
+
+-[Icons]( https://csheridan16.github.io/Icon/index.html)
+
+
